@@ -8,3 +8,4 @@ To make this, you need
 5.MQ2
 6.Lithium Ion Batteriees(3)
 7.Battery case
+You can control the robot from outside of your house using only your mobile. Also you can monitor the live footage as well as sensor's data.
